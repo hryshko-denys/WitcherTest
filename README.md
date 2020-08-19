@@ -1,4 +1,4 @@
-[DEMO](https://PolishchukViacheslav.github.io/FETemplate/)
+[DEMO](https://hryshko-denys.github.io/WitcherTest)
 
 ##Boilerplate for front-end projects
 

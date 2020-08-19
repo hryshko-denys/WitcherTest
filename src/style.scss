@@ -1,5 +1,19 @@
-@import "variables";
+@font-face {
+  font-family: "Cambria";
+  src: url("./fonts/cambriab.ttf");
+  src: url("./fonts/cambria.ttc");
+  src: url("./fonts/cambriab.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
 
-h1 {
-  color: $main-color;
+@import "./styles/main";
+@import "./styles/get-started";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Arial", sans-serif;
 }

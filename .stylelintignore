@@ -1,2 +1,5 @@
 dist
 .cache
+.src/fonts
+.src/images
+.src/styles/reset.css
