@@ -1,17 +1,44 @@
+# Witcher
+
+## Task requirements
+
+## Demo link
+
 [DEMO](https://hryshko-denys.github.io/WitcherTest)
 
-##Boilerplate for front-end projects
+## Project description
+```
+- Start animation of "Get bonus" section with keyframes;
+- you can copy code to click board when click on "COPY CODE"
+ and you will see small message that message copied;
+- site is adaptive for small devices (320px), tabs and desktop;
+- pixes perfect on Chrome (1900px - 1080px);
+- hover effects on two buttons;
 
-###Includes:
+```
 
-node-sass
-linters: Linthtml + Stylelint + Eslint
+## Tech stack
+```
 Parcel to run locally
 deploy scripts
-jest suite for tests
-husky hooks for pre-commit and pre-push
-##Commands: 
-1 - Initialize: npm i 
-2 - Start server: npm start 
-3 - Deploy to gh-pages: npm run deploy
+HTML5
+SCSS
+BEM
+jquery
 
+```
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start 
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
