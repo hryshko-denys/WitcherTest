@@ -1,7 +1,5 @@
 # Witcher
 
-## Task requirements
-
 ## Demo link
 
 [DEMO](https://hryshko-denys.github.io/WitcherTest)
